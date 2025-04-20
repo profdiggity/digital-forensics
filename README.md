@@ -297,7 +297,7 @@ stitch_images("extracted_blobs")
 
 > Only some of this data is downloadable. Local backup remains the most complete source.
 
-## 🚧 A Note on Professional Forensic Tools
+## 🚧 A Note on Police Forensic Tools
 
 High-end tools such as **Cellebrite UFED**, **Magnet AXIOM**, **GRAYKEY**, and **VERAKEY** offer:
 - Full access to locked devices and deleted records
